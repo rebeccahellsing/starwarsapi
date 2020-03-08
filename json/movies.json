@@ -1,0 +1,106 @@
+[
+		{
+			"img": "../inlamning1/picture/thephontomemenace.jpeg",
+			"title": "The phontom menace",
+			"director": "George Lucas", 
+			"created": "1999", 
+			"episode": "1", 
+			"charaters": "Anakin, Obi-wan, Qui gon, darth maul, R2D2", 
+			"description": "Two Jedi Knights escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their old glory."
+		},
+
+		{
+			"img": "../inlamning1/picture/attackoftheclones.jpg",
+			"title":"Attack of the clones",
+			"director": "George Lucas", 
+			"created": "2002", 
+			"episode": "2", 
+			"charaters": "Anakin, Obi-wan, Yoda, Count Dooku, R2D2", 
+			"description": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-wan Kenobi investigates an assassination attempt on the Senator and discovers a secret clone army crafted for the Jedi."
+		},
+
+		{
+			"img": "../inlamning1/picture/revengeofthesith.jpg",
+			"title":"Revenge of the sith",
+			"director": "George Lucas", 
+			"created": "2005", 
+			"episode": "3", 
+			"charaters": "Anakin, Obi-wan, Yoda, Darth Vader, R2D2", 
+			"description": "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy."
+		},
+
+		{
+			"img": "../inlamning1/picture/anewhope.jpg",
+			"title":"A new hope",
+			"director": "George Lucas", 
+			"created": "1977", 
+			"episode": "4", 
+			"charaters": "Luke, Obi-wan, Leia, Darth Vader, R2D2", 
+			"description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+		},
+
+		{
+			"img": "../inlamning1/picture/theempirestrikesback.jpg",
+			"title":"The empire strikes back",
+			"director": "Irvin Kershner", 
+			"created": "1980", 
+			"episode": "5", 
+			"charaters": "Luke, Chewbacca, Leia, Darth Vader, R2D2", 
+			"description": "After the rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader."
+		},
+
+		{
+			"img": "../inlamning1/picture/returnofthejedi.jpg",
+			"title":"Return of the jedi",
+			"director": "Richard Marquand", 
+			"created": "1983", 
+			"episode": "6", 
+			"charaters": "Luke, Chewbacca, Leia, Darth Vader, R2D2", 
+			"description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the rebels dispatch to Endor to destroy a more powerful Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap."
+		},
+
+		{
+			"img": "../inlamning1/picture/theforceawakens.jpg",
+			"title":"The force awakens",
+			"director": "J.j. Abrams", 
+			"created": "2016", 
+			"episode": "7", 
+			"charaters": "Hans solo, Chewbacca, Fin, Leia, BB8", 
+			"description": "Three decades after the Empire's defeat, a new threat arises in the militant First Order. Stormtrooper defector Finn and the scavenger Rey are caught up in the Resistance's search for the missing Luke Skywalker."
+		},
+
+		{
+			"img": "../inlamning1/picture/rogueone.jpg",
+			"title":"Rogue one",
+			"director": "Gareth Edwards", 
+			"created": "2016", 
+			"episode": "8 (3.5)", 
+			"charaters": "Jyn Erso, Cassian, Chirrut, Baze, K-2SO", 
+			"description": "The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the Death Star plans."
+		},
+
+		{
+			"img": "../inlamning1/picture/thelastjedi.jpg",
+			"title":"The last jedi",
+			"director": "Rian Johnson", 
+			"created": "2017", 
+			"episode": "9", 
+			"charaters": "Rey, Leia, Fin, Chewbacca, BB8", 
+			"description": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order."
+		},
+
+		{
+			"img": "../inlamning1/picture/solo.jpg",
+			"title":"Solo: A star wars story",
+			"director": "Ron Howard", 
+			"created": "2018", 
+			"episode": "10 (3.5)", 
+			"charaters": "Hans solo, Chewbacca, Beckett, Qi'Ra, Lando", 
+			"description": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion."
+		}
+
+
+	
+]
+
+

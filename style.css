@@ -1,0 +1,164 @@
+@charset "UTF-8";
+
+* {
+	margin:0; 
+	padding:0;
+	}
+
+body {
+	height:100%;
+	width:100%; 
+	background-color:#000000;
+	}
+		
+h1,h2,h3,h4 {
+	color:#C0C0C0;
+	font-family:century gothic, Arial, Helvetica, sans-serif;
+}
+
+p {
+	font-family:century gothic, Arial, Helvetica, sans-serif;
+	font-size: 0.6em;
+	color: #C0C0C0;
+}
+/* ------------------------Logotype ----------------------------*/ 
+#logotype{
+	width: 5%;
+	margin: 2%; 
+	float: left;
+}
+
+#logotype img{
+	
+	display:block;
+	max-height:50px;
+	margin: auto;
+	margin-bottom:2%;
+	margin-top:2%;
+	}
+
+
+/* ------------------------Global navigation ----------------------------*/		
+nav {
+	width: 100%;
+	border-top-style: solid;
+	border-bottom-style:solid;
+	border-width:1px;
+	margin-bottom:2%;
+	text-decoration:none;
+	font-family:century gothic, Arial, Helvetica, sans-serif;
+  }
+
+ nav ul li {
+ 	margin-right: 8%;
+ 	display:inline;
+ 		margin-right: 15%; 
+
+ }
+
+nav a {
+	text-decoration: none;
+	color: #C0C0C0;
+	font-size: 0.7em;
+}
+nav a:hover {
+	color: #ffffff;
+	}  .menu {
+	margin: 2%;
+	text-align: center;
+	margin-left: 10%;
+	margin-top: 3.5%; 
+	float: left; 
+	width: 35%;
+}
+
+.searchGroup {
+	margin: 2%;
+	margin-top: 3.5%;
+	float: left;
+	width: 40%;
+}
+
+#menuPlaneter {
+	text-align: center;
+	margin: 2%;
+		margin-left: 10%;
+
+	margin-top: 3.5%;
+	float: left;
+	width: 50%;
+}
+
+	
+nav #thisSection {
+	color:#ffffff;
+	}
+
+
+/* ------------------------Sökfunktion och knapp ----------------------------*/	
+
+.button{
+  background-color: #000000;
+  border-width: 1%;
+  border-color: #C0C0C0; 
+  color: #C0C0C0;
+  padding: 1% 5%;
+  text-align: center;
+  text-decoration: none;
+  font-size: 0.5em;
+  cursor: pointer;
+}
+
+.button:hover{
+	background-color: #808080;	
+}
+
+
+/* ------------------------Data från json ----------------------------*/	
+.infoBox {
+	width: 100%; 
+	float: left;
+	margin-bottom: 2%;
+}
+
+.infoBoxWrongMessage {
+	width: 100%; 
+	float: left;
+	margin-bottom: 2%;
+	margin-left: 10%; 
+}
+.imgValue {
+	float: left;
+	height: 268px; 
+	width: auto;
+	margin-left: 10%; 
+	border-style: solid;
+	border-width:3px;
+	color: white;
+
+}
+
+.info {
+	padding-left: 5%;
+	float: left;
+	width: 50%;
+	height: auto;
+}
+
+/* ------------------------Undersidor informations box - API ----------------------------*/
+
+.infoBoxSubpages {
+	width: 100%; 
+	float: left;
+	margin-bottom: 2%;
+	margin-left: 10%; 
+	font-family:century gothic, Arial, Helvetica, sans-serif;
+	color: #C0C0C0;
+	font-size: 0.6em;
+}
+
+.infoBoxSubpages h3{
+	font-size: 2.3em;
+	font-weight: bold;
+}
+
